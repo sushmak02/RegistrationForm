@@ -1,0 +1,108 @@
+body
+{
+	background-color:#F1F1F1;
+	font-family: sans-serif;
+}
+.wrapper
+{
+	width:100%;
+}
+
+.rg
+{
+	padding: 1px;
+    box-shadow: 0 2px 0 #D9E1E7;
+    border-radius: 3px;
+    background: #fff;
+    margin-top: 5%;
+}
+.form
+{
+	
+    background-color: white;
+   
+    height: 700px;
+	
+}
+.viewstyle
+{
+     width: 750px;
+   margin: 0% 23%;
+}
+.newstyle
+{
+    width: 500px;
+   margin: 0% 30%;
+}
+.header
+{
+	text-align: center;
+	padding-top:1px;
+    padding-bottom: 0px;
+}
+label {
+    font-weight: normal;
+    display: inline-block;
+    padding-bottom: 5px;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+    
+}
+ .ip
+{
+	width: 100%;
+    max-width: 100%;
+    padding: 6px 15px;
+    height: 2.5em;
+    -webkit-transition: .07s ease-in-out;
+    transition: .07s ease-in-out;
+    color: #4a545a;
+    border: solid 1px transparent;
+    border-radius: 3px;
+    background: #eef2f5;
+    box-shadow: none;
+    box-sizing: border-box;
+     transition-duration: 0.4s;
+}
+
+.button
+{
+	background-color: #479FC2;
+	color:white;
+	padding:10px 10px ;
+	border-style: none;
+    cursor:pointer;
+    margin-right: 20px;
+}
+.button:hover
+{
+    box-shadow: 0 3px 3px 2px grey;
+}
+table
+{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    display: table;
+    border:1px solid grey ;
+}
+th,td
+{
+     padding: 12px 12px;
+    display: table-cell;
+    text-align: left;
+    vertical-align: top;
+    height:30px;
+    width:100px;
+}
+tr
+{
+    border-bottom: 1px solid #ddd;
+
+}
+th
+{
+    background-color:#F1F1F1;
+}

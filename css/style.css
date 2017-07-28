@@ -1,0 +1,19 @@
+body
+{
+	font-family: "open sans condensed";
+}
+.container
+{
+	margin-left: 30%;
+	margin-top: 20%;
+}
+.button
+{
+	border-style: none;
+	background-color: #479FC2;
+	color:white;
+	font-size:20px;
+	padding: 20px 20px;
+	margin-right: 30px;
+	cursor : pointer;
+}
